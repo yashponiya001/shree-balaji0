@@ -209,7 +209,7 @@ const projects = [
      
     ],
     image: jobit,
-    source_code_link: "https://www.google.com/maps/place/28%C2%B004'56.7%22N+77%C2%B032'17.6%22E/@28.0824056,77.5356339,17z?hl=en",
+    source_code_link: "https://online.publuu.com/500060/1122286",
   },
   {
     name: "Book a Consultation",
